@@ -660,7 +660,7 @@ section.hero {
 }
 
 .portfolio-overlay-text {
-  margin: 0 24px;
+  padding: 0 24px;
 
   font-weight: 400;
   font-size: 18px;
